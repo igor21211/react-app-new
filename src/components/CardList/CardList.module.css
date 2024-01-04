@@ -1,0 +1,8 @@
+.main-content {
+  width: 1560px;
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #fff;
+}
